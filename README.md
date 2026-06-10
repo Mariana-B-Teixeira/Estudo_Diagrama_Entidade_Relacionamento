@@ -1,0 +1,2 @@
+# Estudo_Diagrama_Entidade_Relacionamento
+Exemplos de Diagrama Entidade-Relacionamento em diferentes cardinalidades
