@@ -74,4 +74,6 @@ Os diagramas foram desenvolvidos utilizando **Draw.io** e representam diferentes
 
 Esses exemplos são úteis para compreender os conceitos de **modelagem de banco de dados** e **cardinalidade**, servindo como base para implementação em SQL.
 
+**Esse repositório é gradualmente atualizado e melhorado.**
+
 ⭐ Projeto desenvolvido por **Mariana B. Teixeira**
